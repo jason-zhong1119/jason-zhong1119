@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a full stack developer
+I am a Full Stack Developer.
 
 <!--
 **jason-zhong1119/jason-zhong1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
